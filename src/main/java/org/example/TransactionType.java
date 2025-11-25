@@ -1,5 +1,5 @@
 package org.example;
 
 public enum TransactionType {
-    DEPOSIT, WITHDRAWAL, TRANSFER
+    DEPOSIT, WITHDRAWAL, TRANSFER, PAYMENT
 }
